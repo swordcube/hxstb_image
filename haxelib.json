@@ -1,0 +1,14 @@
+{
+    "name": "hxstb_image",
+    "url" : "https://github.com/swordcube/hxstb_image",
+    "license": "MIT",
+    "tags": ["haxe", "image", "stb-image", "stb_image", "stb", "hxstb_image", "cpp", "binds", "bindings", "native"],
+    "description": "A haxelib containing hxcpp bindings for stb_image.",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "releasenote": "Initial release.",
+    "contributors": ["swordcube"],
+    "dependencies": {
+        "hxcpp": ""
+    }
+}
